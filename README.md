@@ -2,6 +2,10 @@
 + .NET Core 3.1
 + Console Application (C#)
 + Windows Service (C#)
++ System.Data.SqlClient Version 4.8.5
++ Dapper 2.0.123
++ Dapper.Contrib 2.0.78
++ Gmail SMTP with App Password Port 587
 
 # Guide
 + .Net Core Console App As A Windows Service: https://www.initpals.com/net-core/net-core-console-app-as-a-windows-service/
