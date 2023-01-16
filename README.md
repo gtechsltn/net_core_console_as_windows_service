@@ -1,7 +1,7 @@
 # .NET Core Console App as a Windows Service
 + .NET Core 3.1
-+ Windows Service
-+ C# Console Application
++ Console Application (C#)
++ Windows Service (C#)
 
 # Guide
 + .Net Core Console App As A Windows Service: https://www.initpals.com/net-core/net-core-console-app-as-a-windows-service/
